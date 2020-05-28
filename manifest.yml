@@ -1,0 +1,5 @@
+applications:
+- name: my-awesome-project
+  random-route: true
+  memory: 1G
+  path: target/demo-0.0.1-SNAPSHOT.jar
