@@ -10,8 +10,8 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	String home() {
-		return "Hey Login Succesful !!!";
-	}
+		return "Hey L  Succesful !!!";
+	}g
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
