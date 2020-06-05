@@ -10,7 +10,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	String home() {
-		return "Hey Log Succesful !!!";
+		return "Hey Logi Succesful !!!";
 	}
 
 	public static void main(String[] args) {
